@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1530210503552.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2026332258",
+    "id" : "9F996927",
+    "lastKnownWriteTime" : 1530210530,
+    "last_content_update" : 1530210530813,
+    "path" : "~/R/Meta-Analysis/Encoding_Variables_HedgesG.R",
+    "project_path" : "Encoding_Variables_HedgesG.R",
+    "properties" : {
+        "cursorPosition" : "234,0",
+        "scrollLine" : "175",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

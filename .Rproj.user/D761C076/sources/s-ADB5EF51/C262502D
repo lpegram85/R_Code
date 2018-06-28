@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1530209056702.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C262502D",
+    "lastKnownWriteTime" : 1530209109,
+    "last_content_update" : 1530209109824,
+    "path" : "~/R/Meta-Analysis/Decoding_Variables_HedgesG.R",
+    "project_path" : "Decoding_Variables_HedgesG.R",
+    "properties" : {
+        "cursorPosition" : "11,24",
+        "scrollLine" : "1",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
